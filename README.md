@@ -39,6 +39,8 @@ Court of Human Rights: Looking into the Crystal Ball</a></li>
 
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Law-NLP-Papers/blob/master/lw(19).pdf" style="text-decoration:none;">Applying Deep Neural Network to Retrieve
-Relevant Civil Law Articles</a></li> 
+Relevant Civil Law Articles</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Law-NLP-Papers/blob/master/lw(20).pdf" style="text-decoration:none;">Natural Language Processing and Machine Learning for Law and Policy Texts</a></li> 
 
 </ul>
